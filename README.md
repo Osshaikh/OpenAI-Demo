@@ -27,7 +27,7 @@ Header and Authentication details of request Load balance across multiple OpenAI
 
 ![image](https://github.com/Osshaikh/OpenAI-Demo/assets/44756471/2aee1332-9ef0-464a-9ca3-3c628f32347f)
 
-To configure Session stickness for OpenAI models 
+To configure Session stickness for OpenAI models (Optional, would be useful in very specific usecase)
 ![image](https://github.com/Osshaikh/OpenAI-Demo/assets/44756471/6ccffaf2-c22a-4c96-9d02-bb7f7395a1d0)
 
 Use following settings in configuring health probes for your OpenAI models
